@@ -1,0 +1,71 @@
+{
+    "image": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".bmp",
+        ".tif",
+        ".tiff",
+        ".gif",
+        ".svg",
+        ".webp"
+    ],
+    "audio": [
+        ".mp3",
+        ".m4a",
+        ".mpa",
+        ".ogg",
+        ".wav",
+        ".aif",
+        ".aiff",
+        ".wma"
+    ],
+    "media": [
+        ".mp4",
+        ".avi",
+        ".m4v",
+        ".wmv",
+        ".3gp"
+    ],
+    "document": [
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx",
+        ".pdf",
+        ".txt",
+        ".rtf",
+        ".ps",
+        ".eps",
+        ".prn",
+        ".odt",
+        ".odp",
+        ".ods",
+        ".odg",
+        ".odf",
+        ".sxw",
+        ".sxi",
+        ".sxc",
+        ".sxd",
+        ".stw",
+        ".csv"
+    ],
+    "webFile": [
+        ".htm",
+        ".html",
+        ".css",
+        ".js"
+    ],
+    "xmlFile": [
+        ".xps",
+        ".xml "
+    ],
+    "adobeFile": [
+        ".psd",
+        ".ai",
+        ".indd"
+    ],
+    "otherFile": []
+}
